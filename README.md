@@ -1,2 +1,3 @@
 # Machine-Learning-Homework1
-Intro to ML course's homework with questions that is about coding a decision tree and kNN algorithm with two different datasets.
+Q1 Visualizing a decision tree of wheat-type dataset.
+Q2 Comparing kNN algorithm's accuracy on red-wine dataset's original and scaled versions.
